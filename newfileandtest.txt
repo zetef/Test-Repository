@@ -2,3 +2,5 @@ this is the first line of this file
 this is the second
 this is last one.
 oops, actually this is the last line.
+
+newfile joined the fight!
