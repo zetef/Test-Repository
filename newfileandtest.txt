@@ -4,4 +4,5 @@ this is last one.
 oops, actually this is the last line.
 
 newfile joined the fight!
+who is the better default name?
 choose yout fighter!
