@@ -4,3 +4,4 @@ this is last one.
 oops, actually this is the last line.
 
 newfile joined the fight!
+choose yout fighter!
